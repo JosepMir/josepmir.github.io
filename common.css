@@ -32,16 +32,21 @@
  
 
  
- #frida {
- width: 11em; 
-    left: 67em;
-    position: absolute;
- }
+ 
+#profile {
+    float: right;
+    /* size: 39px; */
+    margin-left: 1em;
+    width: 13em;
+    margin-right: 0em;
+} 
+
 img {
-	/* float:right; */
+	
 	    margin-right: 8em;
 		width:34em;
 }
+
 
 p {
 		/* float:left; */
@@ -85,7 +90,7 @@ h2 {
 	font-size: 36px;
 	line-height: 48px;
 	/* margin-top: 36px; original value*/
-	    margin-top: 200px;
+	margin-top: 160px;
 	margin-bottom: 14px
 }
 
